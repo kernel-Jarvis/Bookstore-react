@@ -92,4 +92,3 @@ padding: 1rem;
 
 
 <br/><br/><br/>
-<p>Made by Jabes Enock</p>
